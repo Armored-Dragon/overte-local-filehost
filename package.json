@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "easy-logger": "github:Armored-Dragon/easy-logger"
+  }
+}
