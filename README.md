@@ -1,17 +1,14 @@
 # Overte Local FileHost
 
 Quick and dirty http based file server. This was made to quickly test models in [Overte](https://overte.org).
-**This server is intended to only run locally and not on the cloud.**
+> [!WARNING]  
+> This server is intended to only run locally and not on the cloud. I am not responsible for any damages that may occur from using this server in a publicly accessible manner.
 
 ## How to run
 
-Clone the repository
-
-Run `node index.js` in the terminal.
-
-```bash
-node server.js
-```
+1. Clone the repository
+2. Run `npm i` to install all dependencies.
+3. Run `node index.js` to start the server.
 
 Expected output:
 
