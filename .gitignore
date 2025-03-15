@@ -1,1 +1,3 @@
-/subdirectory/*
+/public/*
+!/public/PLACE_CONTENT_HERE
+/node_modules
